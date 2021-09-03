@@ -1,0 +1,1 @@
+# EFI-latitude-e7470-macos-bigsur
